@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Android/ass1ques10/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/ass1ques2/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android/ass1ques3/src/main/res/layout/activity_main_calculator.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/ass1ques4/src/main/res/layout/activity_main_radio_button.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/ass1ques5/src/main/res/layout/activity_main_check_box.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/ass1ques6/src/main/res/layout/activity_main_student_info.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/ass1ques6/src/main/res/layout/activity_second_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/ass1ques7/src/main/res/layout/activity_act2.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/ass1ques7/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/ass1ques9/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/ass1wues8/src/main/res/layout/activity_act2.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/ass1wues8/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/assig1ques8/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/assig1ques8/src/main/res/layout/activity_secound.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/assigques1/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/assque3/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK" />
+</project>
